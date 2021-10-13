@@ -1,5 +1,5 @@
 # Rectangular Hydraulic Fractures
-The objective of this code is to creates features that mimic hydraulic fractures
+The objective of this code is to create features that mimic hydraulic fractures
 
 Tools needed for the analysis
 ```python
